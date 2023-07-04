@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1688456619 source:c:\users\night\onedrive\Документы\codeblocks\task4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1688458149 source:c:\users\night\onedrive\Рабочий стол\task4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
