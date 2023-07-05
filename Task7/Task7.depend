@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688556811 source:c:\users\night\onedrive\Документы\codeblocks\task7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
