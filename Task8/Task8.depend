@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1688641374 source:c:\users\night\onedrive\Документы\codeblocks\task8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+
