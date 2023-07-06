@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688647247 source:c:\users\night\onedrive\Документы\codeblocks\task9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
